@@ -5,4 +5,5 @@ compare plots to 3 reseach papers
 -->put images
 compare to xfoil numeric plot
 -->put image
-state match percentage
+state match percentage, use the image to dat matcher
+
