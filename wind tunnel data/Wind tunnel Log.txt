@@ -1,0 +1,42 @@
+Wind tunnel diary--
+
+general instructions
+1.keep ac and dehumidifier all at all times. AC temp set to 20.
+2.if water found inside or outside the lab clean immediately. water shouldn't enter electronics at all costs. 
+3.keep all doors locked when leaven. there are 3 doors of wind tunnel lab and 1 min door to IC engine lab.
+4.update everything in the wind tunnel logbook. even smallest of things
+5.
+
+
+
+how to start the wind tunnel[main rotor]
+1. turn on power supply near the main door. it is labeled
+2. open the back shutter near the fan.
+3. see if there is no flow obstruction inside the wind tunnel anywhere.
+4. turn on power switches inside the wind tunnel room , there are 3 MCB boxes. turn on all switches in all the boxes (when leaving turn off all of the switches EXCEPT the switch labeled as "do no switch off" this switch is located beside the switch labeled as "wind tunnel and pfd controller")
+5. the right one will turn on the control panel. 
+6. on the control panel press the upper arrow button till it displays "frequent modes"
+7. press and hold "enter" it will show rpm
+8. press start. a red LED should turn on.
+<< DO NOT START THE WIND TUNNEL AT ANY RPM ABOVE 40 RPM>>
+9. make GRADUAL increases and decreases to the rpm. the steps should not be greater than 50 rpm.
+10. once readings have been taken, gently decrease the rpm until minimum.
+11. to stop it, just press the start/stop button
+<< DO NOT STOP THE WIND TUNNEL AT ANY RPM ABOVE 50 RPM>>
+
+
+29th October 2025. Thursday.
+
+Jay More, Yah More, Vaishnav Sairam, Aditya Bayar.
+enter time- 4:00 pm exit time- 7:15pm
+Ran wind tunnel for with SD 7062 for 2 RPM settings. Exact Velocity was not found as manometer kept fluctuating slightly. DATA saved in excel sheet.
+
+
+
+4th November 2025. Tuesday.
+
+Jay More, Yah More, Vaishnav Sairam
+enter time- 4:15pm exit time- 
+wind tunnel was wet from inside, AC was set to 16 degree Celsius when we came in. cleaned the room and the tunnel from inside out. dried the wind tunnel. Set SD7062 airfoil in wind tunnel for next testing.
+angle of attack tested- 0,5,10. RPM- 850.
+tested both top and bottom side.
