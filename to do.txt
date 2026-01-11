@@ -1,0 +1,8 @@
+plotting the pressure
+-->show code and also show image
+
+compare plots to 3 reseach papers
+-->put images
+compare to xfoil numeric plot
+-->put image
+state match percentage
